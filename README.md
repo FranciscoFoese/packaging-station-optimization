@@ -262,11 +262,15 @@ kombinieren lassen, um komplexe Systeme zu analysieren und zu verbessern.
 Francisco Föse
 
 Bachelor: Architektur
+
 Masterstudium: Klimagerechtes Bauen und Betreiben. 
+
 Bachelorstudium: Künstliche Intelligenz.
+
 
 Interessen:
 
+Smart City
 Simulation  
 Optimierung  
 Energieeffizienz  
