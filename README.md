@@ -188,15 +188,7 @@ In diesen Ordnern werden gespeichert:
 
 Dadurch können mehrere Simulationen miteinander verglichen werden.
 
-Beispiel einer möglichen Ordnerstruktur:
 
-results/
-   run_1/
-      optimization_progress.png
-   run_2/
-      optimization_progress.png
-
----
 
 # Technologien
 
