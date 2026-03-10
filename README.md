@@ -270,10 +270,10 @@ Bachelorstudium: Künstliche Intelligenz.
 
 Interessen:
 
-Smart City
-Simulation  
-Optimierung  
-Energieeffizienz  
-Produktionssysteme  
-Künstliche Intelligenz
-Datengetriebene Entscheidungsmodelle
+-Smart City
+-Simulation  
+-Optimierung  
+-Energieeffizienz  
+-Produktionssysteme  
+-Künstliche Intelligenz
+-Datengetriebene Entscheidungsmodelle
