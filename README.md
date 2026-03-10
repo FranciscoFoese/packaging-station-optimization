@@ -211,11 +211,11 @@ Random
 
 Repository klonen:
 
-git clone HIER EINSETZEN
+https://github.com/FranciscoFoese/packaging-station-optimization.git
 
 In das Projektverzeichnis wechseln:
 
-cd HIER EINSETZEN
+cd packaging-station-optimization
 
 Abhängigkeiten installieren:
 
@@ -227,7 +227,7 @@ pip install -r requirements.txt
 
 Simulation starten mit:
 
-python HIER EINSETZEN
+pack_optimization.py
 
 Der genetische Algorithmus optimiert automatisch mehrere Generationen von Fabrikkonfigurationen.
 
@@ -261,7 +261,9 @@ kombinieren lassen, um komplexe Systeme zu analysieren und zu verbessern.
 
 Francisco Föse
 
-Masterstudium: Klimagerechtes Bauen und Betreiben, künstliche Intelligenz.
+Bachelor: Architektur
+Masterstudium: Klimagerechtes Bauen und Betreiben. 
+Bachelorstudium: Künstliche Intelligenz.
 
 Interessen:
 
