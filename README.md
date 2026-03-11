@@ -1,3 +1,12 @@
+
+# Packaging Station Optimization
+
+Simulation und Optimierung einer Verpackungsstation mit diskreter Ereignissimulation und genetischem Algorithmus.
+
+Das Modell untersucht den Einfluss von Ressourcen wie Packstationen und Personal auf Durchlaufzeit, Wartezeiten und Gesamtkosten.
+
+---
+
 # Simulation und Optimierung einer Verpackungsstation mit genetischem Algorithmus
 
 Dieses Projekt simuliert eine Verpackungsstation eines Logistiksystems und optimiert deren 
