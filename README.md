@@ -29,7 +29,13 @@ In diesem Projekt wird eine vereinfachte Verpackungsstation modelliert und ansch
 Algorithmus optimiert.
 
 ---
+## Optimierungsverlauf
 
+![Optimierungsverlauf](optimization_progress.png)
+
+## Wartezeit der Picker
+
+![Picker Waiting Time](picker_waiting_time.png)
 # Modell des Systems
 
 Die Simulation bildet einen typischen Ablauf in einem Logistiksystem ab.
